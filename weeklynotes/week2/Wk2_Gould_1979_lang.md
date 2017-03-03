@@ -34,7 +34,10 @@ By using the above four styles of argument, once can undertake a study and essen
 	B.) Adaptation(no selection). Genetically idential individuals assume different shapes in different microhabitats. 
 		
 		Adaptation
-		- Physiological "adaptations" ability to mold the form to circumstances during ontogeny (high altitute).  Not heritable- I would argue there is substantial question, and even some evidence to the contrary, of this.  The heritability of epigenetic modifications seem to present a fashion that these "adaptations" could be heritable.
+		- Physiological "adaptations" ability to mold the form to circumstances during ontogeny (high altitute).  
+			Not heritable- I would argue there is substantial question, and even some evidence to the contrary 
+			of this.  The heritability of epigenetic modifications seem to present a fashion that these 
+			"adaptations" could be heritable.
 		- Cultural adaptation- heritability is thus imposed by learning
 		- Conventional Darwinian adaptation- selection upon genetic variation. 
 
@@ -43,8 +46,10 @@ By using the above four styles of argument, once can undertake a study and essen
 
 Contstraints
 
-	- Phyletic- arise from architectural restrictions that were not previous adaptations, but an essential consequence of materials and designs of the basic "body plan"
-	- Developmental- subcatgory of phyletic- early stages of ontogeny dictate and confine the oranism to particular evolutionary pathways. 
+	- Phyletic- arise from architectural restrictions that were not previous adaptations, but an essential 
+		consequence of materials and designs of the basic "body plan"
+	- Developmental- subcatgory of phyletic- early stages of ontogeny dictate and confine the oranism to particular 
+		evolutionary pathways. 
 
 ### Importance:
 
