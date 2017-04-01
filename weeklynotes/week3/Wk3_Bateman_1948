@@ -1,0 +1,32 @@
+#Week 3- Lang
+
+## Paper- Bateman 1948
+
+	
+### Reasoning:
+Bateman attempted to address the gap between Darwin's doctrine and sexual dimorphism.  He thought that, by identifying the mechanistic control of sexual selection, he would be able to then explain how such great divergence of sexual dimorphism is observed within a single species. 
+
+
+### Methods:
+Bateman conducted six experiments with fruit flys that were intentionally inbred, allowing him to identify the parental lines of an offspring by the offspring's phenotype. He placed 3-5 individuals of each sex into a bottle, with some experiments involving transfer of flies and eggs to a new bottle (environment) every day. By counting the number of mutated offspring, he then determined the number of mates invovled in producing the observed offspring. One confound is that he was unable to observe those larva that did not survive (female could mate with 4 males, but if only 1 offspring survived past larval stage, it would appear that she had mated with a single male). 
+
+### Findings:
+Trials 1-4: male reproductive success (RS) (# of sired offspring) increased steadily until three mates were reached, at which point male RS fell off. Female RS increased with mate number, though for less dramatically.
+
+Trials 5 & 6: Male RS continually increased, never plateauing or draopping.  Female RS plateaued after a single mate.  
+
+Bateman suggested these results arose from a lack of increase in benefit of a female having multiple mating as a single male could result in successful fertilization, while males do see a substantial increase in RS if they mate with multiple females. Thus, he described what is now known as *Batemans Principle* which states  
+
+- male reproductive success increases with the number of mates they attempt to copulate with, while female reproductive success does not. 
+- male reproductive success will show greater variance than female. 
+- sexual selection will have a greater effect on the sex with greater variance in reproductive success.
+
+
+### Importance:
+
+Since his experiment, many have questioned and critized Batemans experimental approach, statistical calculations, reasoning, and conclusions. In 2012 [Gotaway et al.][link1] performed a repetition of Batemans experiments, to determine the accuracy in his conclusions with todays technology. Essentially, the found that his study had many inherent flaws in the estimation of both mate and offspring number, which ultamtiely informed his estimates of reproductive succes. They state that, *"Bateman’s method overestimated subjects with zero mates, underestimated subjects with one or more mates, and produced sys- tematically biased estimates of offspring number by sex. Bateman’s methodology mismeasured fitness variances that are the key varia- bles of sexual selection."*
+
+While Batemans research was certainly novel and presented interesting links between Natural Selection and Sexual Selection, it would seem that many of his conclusions were inaccurate and are not empirically supported. 
+
+
+[link1]:http://www.pnas.org/content/109/29/11740.full.pdf
