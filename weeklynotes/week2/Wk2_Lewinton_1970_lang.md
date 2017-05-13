@@ -1,6 +1,6 @@
 #Week 2 - Lang
 
-## Paper- Lewinton, RC. 1970. The Units of Selection
+## Paper- Lewontin, RC. 1970. The Units of Selection
 
 ##### Darwins 3 principles of evolution by natural selection:
 1. phenotypic variation
